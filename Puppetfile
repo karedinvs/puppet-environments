@@ -18,7 +18,7 @@ mod 'puppetlabs-ntp',
 
 # A module from a git branch/tag
 mod 'puppetlabs-apt',
-  :git => 'https://github.com/puppetlabs/puppetlabs-apt.git',
+  :git => 'https://github.com/puppetlabs/puppetlabs-apt.git'
  # :ref => '1.4.x'
 
 # A module from Github pre-packaged tarball
